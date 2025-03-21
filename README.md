@@ -1,3 +1,3 @@
 Musa Chokwe
 Alexander Chansa
-Setting up my web development envirnment
+Setting up my web development environment
