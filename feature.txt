@@ -1,4 +1,4 @@
-- i leartn how to comit
+- i learnt how to commit
 - i learnt how to push and push code to GitHub
 - i learnt how to merge branches
 - i learnt how to collaborate on GitHub
